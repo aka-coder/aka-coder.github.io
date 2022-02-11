@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Raj Chawla"
-  avatar           : "profile.jpg"
+  avatar           : 
   bio              : "Graduate Student, Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology"
   location         : "Providence, Bengaluru, India"
   employer         :
   pubmed           : 
-  googlescholar    : "hhttps://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en"
   email            :"draajchawla@yahoo.com"
   researchgate     :  "https://www.researchgate.net/profile/Raj-Chawla"
   uri              :
