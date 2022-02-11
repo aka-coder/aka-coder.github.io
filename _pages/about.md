@@ -1,3 +1,14 @@
+---
+permalink: /
+title: 
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I am currently a Graduate Student at Energy Institute Bengaluru, [Rajiv Gandhi Institute of Petroleum Technology](https://www.rgipt.ac.in/), majoring in Power & Energy Systems Engineering.
 
 I completed my B.Tech in 2018 at [Lovely Professional University, Punjab, India](https://www.lpu.in/). My Bachelor's thesis is titled "Mechanical and Tribological Properties of Graphene Reinforced Polymer Composites: An Atomistic Simulation Study" under the supervision of [Prof. Sumit Sharma](https://www.nitj.ac.in/index.php/nitj_cinfo/Faculty/150)
