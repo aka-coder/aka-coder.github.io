@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Conferences"
-    url: /conferences/    
+    url: /publications/ 
 
   - title: "Simulations"
     url: /simulations/    
