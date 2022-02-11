@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ROW TEST"
+title                    : "Raj Chawla"
 title_separator          : "-"
-name                     : &name "ROW TEST"
-description              : &description "Graduate Student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Raj Chawla"
+description              : &description "Graduate Student, Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology"
+url                      : https://aka-coder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aka-coder.github.io"
+repository               : "aka-coder/aka-coder.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "ROW TEST"
-  avatar           : "profile.png"
-  bio              : "Graduate Student, Energy Institute Bengaluru"
-  location         : "Location"
+  name             : "Raj Chawla"
+  avatar           : "raj.jpg"
+  bio              : "Graduate Student, Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology"
+  location         : "Providence, Bengaluru, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "hhttps://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en"
+  email            :" draajchawla@yahoo.com
+  researchgate     :  "https://www.researchgate.net/profile/Raj-Chawla"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-2897-5961"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
