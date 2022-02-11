@@ -15,7 +15,6 @@ I completed my B.Tech in 2018 at [Lovely Professional University, Punjab, India]
 
 
 Here is a recent copy of my [CV](TEST).
-- Here is a recent copy of my [CV](TEST).
 
 ## Research Areas
 **Broad Interest:**  Energy Economics & Policy, Materials Informatics, Machine Learning, Power Systems
